@@ -1,0 +1,15 @@
+.pokedex-container {
+  background-color: #C62323;
+  width: 343px;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+.pokedex-top-circles-container {
+  display: flex;
+}
+
+.pokedex-top-circles {
+  display: flex;
+  align-self: flex-start;
+}
