@@ -26,8 +26,9 @@ const BlueLargeCircle = styled(GreenCircle)`
 `;
 
 const YellowLargeCircle = styled(YellowCircle)`
-  width: 20px;
-  height: 20px;
+  width: 50px;
+  height: 50px;
+  margin-left: 1em;
 `;
 
 export {GreenCircle, YellowCircle, RedCircle, BlueLargeCircle, YellowLargeCircle}
