@@ -28,10 +28,7 @@ class App extends Component {
             </div> 
         </ImageContainer>
         <ContentContainer>
-          <p>
-            A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON
-            
-          </p>
+          <p>A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON</p>
         </ContentContainer>
         
         <div style={{display: 'flex', justifyContent: 'flex-end', gap: '10px', margin: '1em 0'}}>
